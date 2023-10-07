@@ -1,2 +1,2 @@
-# GR-Grid-Bar
+# Sennheiser Greece Region
 Sennheiser Wireless Systems Manager
